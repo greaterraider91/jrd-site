@@ -1,1 +1,8 @@
+@font-face {
+  font-family: Sahel;
+  src: url(./Sahel-Light.ttf);
+}
 
+p {
+  font-family: Sahel;
+}
