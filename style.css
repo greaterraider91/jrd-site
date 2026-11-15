@@ -3,6 +3,6 @@
   src: url(./Sahel-Light.ttf);
 }
 
-p {
+body {
   font-family: Sahel;
 }
