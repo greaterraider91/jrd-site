@@ -5,6 +5,13 @@
 
 body {
   font-family: Sahel;
+  background-image: repeating-linear-gradient(
+  -45deg,
+  #006AFF,
+  #006AFF 50px,
+  #108FFF 50px,
+  #108FFF 100px
+);
 }
 
 ul {
