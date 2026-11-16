@@ -6,21 +6,7 @@
 button {
   -webkit-appearance: none;
   border: none;
-  background-color: #0059FF;
-  padding: 8px 10px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  cursor: pointer;
-}
-
-button:disabled,
-button[disabled]{
-  -webkit-appearance: none;
-  border: none;
-  background-color: #0026FF;
-  color: #FFFFFF;
+  background-color: #003FFF;
   padding: 8px 10px;
   text-align: center;
   text-decoration: none;
