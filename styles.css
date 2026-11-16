@@ -4,6 +4,7 @@
 }
 
 button {
+  -webkit-appearance: none;
   border: none;
   background-color: #0059FF;
   padding: 8px 10px;
