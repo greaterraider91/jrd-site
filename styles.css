@@ -3,7 +3,7 @@
   src: url(./Sahel-Light.ttf);
 }
 
-.button {
+button {
   border: none;
   background-color: #0059FF;
   padding: 8px 10px;
