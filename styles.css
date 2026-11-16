@@ -26,3 +26,7 @@ ul li a {
 ul li a:hover {
   background-color: #5050ff;
 }
+
+ul li a.active {
+  background-color: #5151ff;
+}
