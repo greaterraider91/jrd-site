@@ -13,6 +13,7 @@ ul {
   padding: 0;
   background-color: #0000ff;
   display: flex;
+  justify-content: center;
 }
 
 ul li a {
