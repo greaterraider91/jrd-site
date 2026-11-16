@@ -14,6 +14,10 @@ body {
   );
 }
 
+#downloadcovers {
+  float: left;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
