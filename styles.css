@@ -6,3 +6,22 @@
 body {
   font-family: Sahel;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #0000ff;
+  display: flex;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  padding: 7px 8px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #5050ff;
+}
